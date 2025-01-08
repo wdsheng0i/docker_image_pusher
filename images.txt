@@ -40,10 +40,8 @@ ghcr.io/prymitive/karma:v0.108
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/kube-state-metrics:v2.1.1
 quay.io/prometheus-operator/prometheus-operator:v0.49.0
 quay.io/prometheus/node-exporter:v1.2.2
-hub.iot.chinamobile.com/szhcpb/iot/kafka-exporter:latest
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/prometheus-node-exporter:v1.2.2
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/brancz-kube-rbac-proxy:v0.11.0
-hub.iot.chinamobile.com/szhcpb/iot/zookeeper-exporter:latest
 danielqsj/kafka-exporter:v1.6.0
 registry.cn-hangzhou.aliyuncs.com/zhangrongjie/mysqld-exporter:v1
 registry.cn-hangzhou.aliyuncs.com/zhangrongjie/nodata_exporter:1.0.0
