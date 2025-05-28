@@ -46,9 +46,13 @@ quay.io/prometheus/node-exporter:v1.2.2
 quay.io/prometheus/prometheus:v2.29.1
 quay.io/prometheus/prometheus:v2.32.1
 quay.io/prometheus-operator/prometheus-operator:v0.49.0
+quay.io/prometheus-operator/prometheus-config-reloader:v0.49.0
+k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
 rancher/coredns-coredns:1.6.9
 rancher/metrics-server:v0.3.6
 rancher/pause:3.1
+registry.cn-hangzhou.aliyuncs.com/liangxiaohui/cadvisor-amd64:v0.45.0
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/banzaicloud-fluentd:v1.14.4-alpine-1
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/brancz-kube-rbac-proxy:v0.11.0
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/cluster-proportional-autoscaler-amd64:1.8.5
@@ -57,6 +61,7 @@ registry.cn-hangzhou.aliyuncs.com/k8s-viot/flannel:v0.15.1-amd64
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/flannel-cni-plugin:v1.0.1-amd64
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/fluent-bit:1.9.7
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/ingress-nginx-controller:v1.3.0
+registry.cn-hangzhou.aliyuncs.com/google_containers/nginx-ingress-controller:v1.12.1
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/k8s-dns-node-cache:1.21.1
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/kube-apiserver:v1.22.6
 registry.cn-hangzhou.aliyuncs.com/k8s-viot/kube-controller-manager:v1.22.6
@@ -69,6 +74,7 @@ registry.cn-hangzhou.aliyuncs.com/k8s-viot/prometheus-node-exporter:v1.2.2
 registry.cn-hangzhou.aliyuncs.com/zhangrongjie/mysqld-exporter:v1
 registry.cn-hangzhou.aliyuncs.com/zhangrongjie/nodata_exporter:1.0.0
 registry.cn-hangzhou.aliyuncs.com/zhangrongjie/thanos:v0.31.0
+registry.cn-beijing.aliyuncs.com/kubesphereio/thanos:v0.31.0
 registry.gitlab.com/gitlab-org/gitlab-build-images:gitlab-charts-build-base
 registry.gitlab.com/yakshaving.art/alertsnitch
 zabbix/zabbix-server-mysql:alpine-6.2-latest
