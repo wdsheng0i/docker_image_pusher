@@ -4,7 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-bitnami/nginx-ingress-controller:1.0.4
+# bitnami/nginx-ingress-controller:1.0.4
 busybox
 certbot/certbot
 container-registry.oracle.com/database/free:latest
