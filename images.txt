@@ -114,3 +114,4 @@ zabbix/zabbix-web-nginx-mysql:alpine-6.2-latest
 zhangrongjie/alertsnitch:1.0
 zhangrongjie/mysqld_exporter_multi:v1test
 zhangrongjie/rocketmq-exporter:0.0.2
+docker.elastic.co/logstash/logstash:7.12.0
